@@ -1,0 +1,67 @@
+{
+  "vetur.validation.template": false,
+  "editor.formatOnSave": true,
+  "eslint.autoFixOnSave": true,
+  "prettier.eslintIntegration": false,
+  "eslint.validate": [
+    {
+      "language": "vue",
+      "autoFix": true
+    },
+    {
+      "language": "json",
+      "autoFix": true
+    },
+    {
+      "language": "javascript",
+      "autoFix": true
+    },
+    {
+      "language": "javascriptreact",
+      "autoFix": true
+    },
+    {
+      "language": "scss",
+      "autoFix": true
+    },
+        {
+      "language": "css",
+      "autoFix": true
+    },
+    {
+      "language": "md",
+      "autoFix": true
+    },
+  ],
+  "files.associations": {
+    "*.css": "vue-postcss"
+  },
+  "workbench.colorCustomizations": {
+    "[DW-Theme]": {
+      "editorGutter.commentRangeForeground": "#ff0000",
+      "activityBar.activeBorder": "#ff0000",
+      "badge.background": "#ff0000",
+      "breadcrumb.background": "#000",
+      "breadcrumb.focusForeground": "#fff",
+      "editorGroupHeader.tabsBorder": "#9ed191",
+      "editor.foreground": "#000",
+      "icon.foreground": "#fff",
+      "terminal.ansiGreen": "#ff0000",
+      "window.activeBorder": "#ff0000",
+      "editorInfo.foreground": "#fff",
+      "scrollbar.shadow": "#000",
+      "todomd.commentForeground": "#ff0000",
+      "editor.selectionBackground": "#000",
+      "editor.selectionForeground": "#fff",
+      "breadcrumb.foreground": "#fff"
+    },
+    "tab.activeBorder": "#afefe1",
+    "titleBar.activeBackground": "#afefe1",
+    "titleBar.activeForeground": "#000000",
+    "activityBar.background": "#afefe1",
+    "activityBar.foreground": "#000000",
+    "statusBar.background": "#afefe1",
+    "statusBar.foreground": "#000000"
+  },
+  "window.title": "~[vue]~${separator}${activeEditorShort}${separator}${rootName}"
+}
